@@ -1,0 +1,6 @@
+interface:
+  display_name: "Terms Capture"
+  short_description: "Turn concepts and conversations into retrievable records"
+  default_prompt: "Use $terms-capture to turn this concept into a concise, searchable record."
+policy:
+  allow_implicit_invocation: true
